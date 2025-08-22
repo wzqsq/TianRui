@@ -15,3 +15,9 @@
 单个检测 python sql1.py -u http://url
 
 批量检测 python sql1.py -f url.txt
+
+4、这是一个天锐绿盘云文档安全管理平台findConfigForPage  SQL注入检测poc
+
+单个检测 python sql2.py -u http://url
+
+批量检测 python sql2.py -f url.txt
